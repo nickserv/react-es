@@ -22,10 +22,7 @@
     "vite": "^4.0.0"
   },
   "eslintConfig": {
-    "extends": "react-app",
-    "rules": {
-      "react/jsx-no-target-blank": "off"
-    }
+    "extends": "react-app"
   },
   "prettier": "prettier-config-nick"
 }
