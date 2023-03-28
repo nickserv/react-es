@@ -45,7 +45,7 @@ function App() {
         "p",
         {},
         "Edit ",
-        createElement("code", {}, "src/App.jsx"),
+        createElement("code", {}, "src/App.js"),
         " and save to test HMR",
       ),
     ),
