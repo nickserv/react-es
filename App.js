@@ -10,7 +10,7 @@ function App() {
       "a",
       { href: "https://react.dev/", target: "_blank" },
       createElement("img", {
-        src: "/src/assets/react.svg",
+        src: "/react.svg",
         className: "logo",
         alt: "React logo",
       }),
