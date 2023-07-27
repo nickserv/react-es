@@ -1,19 +1,19 @@
 {
-  "name": "react-es",
-  "private": true,
-  "version": "0.0.0",
-  "scripts": {
-    "start": "serve"
-  },
-  "devDependencies": {
-    "eslint": "^8.0.0",
-    "eslint-config-react-app": "^7.0.1",
-    "prettier": "2.8.8",
-    "prettier-config-nick": "^1.0.2",
-    "serve": "^14.2.0"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "prettier": "prettier-config-nick"
+	"name": "react-es",
+	"private": true,
+	"version": "0.0.0",
+	"scripts": {
+		"start": "serve"
+	},
+	"devDependencies": {
+		"eslint": "^8.0.0",
+		"eslint-config-react-app": "^7.0.1",
+		"prettier": "2.8.8",
+		"prettier-config-a11y": "^1.1.2",
+		"serve": "^14.2.0"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"prettier": "prettier-config-a11y"
 }
