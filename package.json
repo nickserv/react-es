@@ -13,7 +13,12 @@
 		"serve": "^14.2.0"
 	},
 	"eslintConfig": {
-		"extends": "react-app"
+		"extends": "react-app",
+		"settings": {
+			"react": {
+				"version": "999.999.999"
+			}
+		}
 	},
 	"prettier": "prettier-config-a11y"
 }
